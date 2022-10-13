@@ -1,7 +1,7 @@
-### Commands to Remember! 
+## Commands to Remember! 
 Here's a list of categories and commands related to them that you may want to remember. I've tried to include everything that is within the first course section at Epicodus, but please keep building this and making it your own! :) 
 
-#### The Terminal
+### The Terminal
 Here's a list of helpful commands that we may use frequently during this course section.
 
 >```ls -a```: View the current directory's contents. The `-a` tag will make it so you will also see the "hidden" files (Which start with .)
@@ -20,12 +20,12 @@ Here's a list of helpful commands that we may use frequently during this course 
 
 >`rm -rf DIRECTORYNAME`: Remove files recursively, in a forced manner, from the specified DIRECTORY. **THIS IS NOT RECOMMENDED**
 
-#### VSCode in the Terminal
+### VSCode in the Terminal
 
 >`code .`: Open the current directory in a VSCode editor, with all the files and subdirectories it contains. 
 
 
-#### Git Commands
+### Git Commands
 
 >`git status`: Check the current status of the tracked git project directory. This will list changes and untracked changes in the current project. If you are hoping to **not find** a git repo at your current location (such as the Desktop), you will see `fatal: not a git repository` as the response that you want.
 
@@ -41,7 +41,7 @@ Here's a list of helpful commands that we may use frequently during this course 
 
 
 
-#### Project Workflow
+### Project Workflow
 
 1. First, create a folder that you are going to build your project within. 
     >`mkdir nameOfProject` 
