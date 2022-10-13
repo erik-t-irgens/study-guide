@@ -1,4 +1,4 @@
-## Helpful Commands and You! 
+## Study Guide! 
 
 ### By Erik Irgens
 
