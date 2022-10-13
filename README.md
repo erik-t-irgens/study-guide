@@ -20,6 +20,8 @@ To utilize this as a reference, all you need to do is open this project in the G
 
 To make a copy of this project for your own use on GitHub, select the `Fork` link at the top of this page, and feel free to clone it down and make your own additions to your own repository. 
 
+If you'd like to, use the file structure set up in this project. There are directories for each course section. Go ahead! Add your stuff! :) 
+
 ### Known Bugs
 It's incomplete! Fill it out as you go through the coursework! :)
 
