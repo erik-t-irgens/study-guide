@@ -16,9 +16,9 @@ Markdown
 ### Setup/Installation Instructions 
 To utilize this as a reference, all you need to do is open this project in the GitHub GUI. You're also welcome to clone this project down by use the following command
 
-`git clone <>`
+`git clone https://github.com/erik-t-irgens/study-guide`
 
-To make a copy of this project for your own use on GitHub, select the `Fork Repository` link at the top of this page, and feel free to clone it down and make your own additions to your repository. 
+To make a copy of this project for your own use on GitHub, select the `Fork` link at the top of this page, and feel free to clone it down and make your own additions to your own repository. 
 
 ### Known Bugs
 It's incomplete! Fill it out as you go through the coursework! :)
